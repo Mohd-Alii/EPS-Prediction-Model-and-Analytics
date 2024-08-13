@@ -31,7 +31,3 @@ This project is focused on developing a machine learning model to predict the Ea
 - **Feature Expansion:** Integrate more financial and market data to refine the model.
 - **Real-time Predictions:** Implement the model in a web application for real-time EPS prediction.
 
-### How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
